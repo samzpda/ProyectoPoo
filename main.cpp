@@ -1,3 +1,5 @@
+//José Samuel Zepeda Campechano 22110095
+//2°P
 
 #include <iostream>
 #include <stdlib.h>
